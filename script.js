@@ -1,5 +1,5 @@
 // Array of skills
-const skills = ["HTML", "CSS", "JavaScript", "React", "Node.js", "Python", "Java"];
+const skills = ["HTML", "CSS", "JavaScript", "Node.js", "Python", "Java", "C++"];
 // Get the skill list element
 const skillList = document.getElementById("skillList");
 // Loop through the skills array and create list items
